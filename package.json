@@ -1,0 +1,18 @@
+{
+  "name": "ar-fe-onboarding",
+  "version": "1.0.0",
+  "description": "ar fe onboarding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev docs --host",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "author": "jay",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.35",
+    "vue": "^3.2.45"
+  }
+}
