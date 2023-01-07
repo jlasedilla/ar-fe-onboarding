@@ -1,5 +1,12 @@
 # Environment
 
+[[toc]]
+
+## Code
+
+- Node: __v19.3.0__
+- NPM: __9.2.0__
+
 ## Directory Structure
 
 ### Configs Files
@@ -21,7 +28,26 @@
 ┗ 📜vite.config.ts      // [!code focus]
 ```
 
-### Components Files
+### Assets Files
+
+```
+┃ ┗ 📂videos
+┣ 📦src
+┃ ┣ 📂assets        // [!code focus]
+┃ ┃ ┣ 📂images      // [!code focus]
+┃ ┃ ┗ 📂resources   // [!code focus]
+┃ ┣ 📂components
+┃ ┃ ┣ 📂common
+```
+
+- _assets_:
+    - Components directory
+- _images_:
+    - Image location such as icons and logos
+- _resources_:
+    - Language resouces are placed here
+
+### Components
 
 ```
 ┃ ┣ 📂components        // [!code focus]
@@ -41,23 +67,42 @@
 ┃ ┃ ┗ 📂Page2           // [!code focus]
 ```
 
-#### components
-- Components directory
+- _components_:
+    - Components directory
+- _common_:
+    - Common components such as Button, Header, etc
+- _\<feature#\>_:
+    - Common components such as Button, Header, etc
+- _\<Feature#Component#\>_:
+    - Each components (not common) are separated by folder
+- _pages_:
+    - Pages directory
+- _\<Page#\>_:
+    - Pages are separated by folder
 
-#### common
-- Common components such as Button, Header, etc
+### Others
 
-#### _\<feature#\>_
-- Common components such as Button, Header, etc
+```
+┃ ┣ 📂routing               // [!code focus]
+┃ ┣ 📂services              // [!code focus]
+┃ ┃ ┣ 📂slices              // [!code focus]
+┃ ┃ ┣ 📂utilities           // [!code focus]
+┃ ┃ ┗ 📜store.ts
+┃ ┣ 📂stories               // [!code focus]
+┃ ┃ ┣ 📂assets
+┃ ┃ ┗ 📜Button.stories.tsx
+```
 
-#### _\<Feature#Component#\>_
-- Each components (not common) are separated by folder
-
-#### pages
-- Pages directory
-
-#### _\<Page#\>_
-- Pages are separated by folder
+- _routing_:
+    - Routing files are placed here
+- _services_:
+    - Services directory
+- _slices_:
+    - Redux slices are placed here
+- _utillities_:
+    - Utility functions are placed here
+- _stories_:
+    - Stories for every components and pages are placed here
 
 ### Full Structure
 ```

@@ -2,7 +2,7 @@ export default {
     title: "AR",
     description: "Developer Documentation",
     head: [
-        ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/assets/cropped-Logo-Initials-Colored-square-32x32.png"}],
+        ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/assets/ar-small.png"}],
     ],
     themeConfig: {
         siteTitle: 'AR',
@@ -24,6 +24,7 @@ export default {
                     text: "Introduction",
                     items: [
                         { text: 'What is AR?', link: '/company/' },
+                        { text: 'Team', link: '/team/' },
                     ],
                 },
                 {
