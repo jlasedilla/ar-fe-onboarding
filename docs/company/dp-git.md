@@ -18,12 +18,12 @@
 
 ## Branche Types
 ### `master`
-    - main branch of the project
-    - updates is only done if `stage` branch is stable
-    - can only be updated by the `dev lead`
+- main branch of the project
+- updates is only done if `stage` branch is stable
+- can only be updated by the `dev lead`
 ### `stage`
-    - main development branch
-    - this is where the `dev` branches are pulled and merged
+- main development branch
+- this is where the `dev` branches are pulled and merged
 ### `dev`
-    - development branch for each developers
-    - `dev` branch should follow the branch naming convention
+- development branch for each developers
+- `dev` branch should follow the branch naming convention
