@@ -43,7 +43,7 @@ const members = [
         ]
     },
     {
-        avatar: '/assets/tailwindcss.png',
+        avatar: '../../assets/tailwindcss.png',
         name: 'Tailwindcss',
         title: 'State Management',
         links: [
