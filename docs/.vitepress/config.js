@@ -48,10 +48,10 @@ export default {
                     text: "Guides",
                     items: [
                         { text: "Coding Standards", link: "/cfs/fe/guides-coding-standards" },
-                        { text: "Documentation", link: "/cfs/fe/guides-documentation" },
+                        { text: "Component Documentation", link: "/cfs/fe/guides-component-documentation" },
                         { text: "Unit Testing", link: "/cfs/fe/guides-unit-testing" },
                         { text: "Coverage", link: "/cfs/fe/guides-coverage" },
-                        { text: "E2E Testing", link: "/cfs/fe/guides-unit-testing" },
+                        { text: "E2E Testing", link: "/cfs/fe/guides-e2e-testing" },
                         { text: "Deployment", link: "/cfs/fe/guides-deployment" },
                     ],
                 },

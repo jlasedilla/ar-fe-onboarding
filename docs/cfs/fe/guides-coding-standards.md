@@ -2,12 +2,16 @@
 
 [[toc]]
 
-Practice __`SOLID`__ principle.
-- S — Single responsibility principle
-- O — Open closed principle
-- L — Liskov substitution principle
-- I — Interface segregation principle
-- D — Dependency Inversion principle
+## React Specific
+
+- Practice __`SOLID`__ principle.
+    - __S__ ingle responsibility principle
+    - __O__ pen closed principle
+    - __L__ iskov substitution principle
+    - __I__ nterface segregation principle
+    - __D__ ependency Inversion principle
+- Use function to create components instead of class
+- Use hooks
 
 ## Type Linting
 
