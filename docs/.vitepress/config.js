@@ -45,13 +45,9 @@ export default {
                     ],
                 },
                 {
-                    text: "Coding Standards",
-                    items: [
-                    ],
-                },
-                {
                     text: "Guides",
                     items: [
+                        { text: "Coding Standards", link: "/cfs/fe/guides-coding-standards" },
                         { text: "Documentation", link: "/cfs/fe/guides-documentation" },
                         { text: "Unit Testing", link: "/cfs/fe/guides-unit-testing" },
                         { text: "Coverage", link: "/cfs/fe/guides-coverage" },
@@ -77,6 +73,7 @@ export default {
                 {
                     text: "Guides",
                     items: [
+                        { text: "Coding Standards", link: "/cfs/be/g-coding-standards" },
                         { text: "Documentation", link: "/cfs/be/guides-documentation" },
                         { text: "Unit Testing", link: "/cfs/be/guides-unit-testing" },
                         { text: "Coverage", link: "/cfs/be/guides-coverage" },
