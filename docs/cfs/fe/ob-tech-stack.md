@@ -11,7 +11,7 @@ import {
 
 const members = [
     {
-        avatar: '/assets/reactjs.png',
+        avatar: '/images/reactjs.png',
         name: 'React 18',
         title: 'Framework',
         links: [
@@ -19,7 +19,7 @@ const members = [
         ]
     },
     {
-        avatar: '/assets/vitejs.png',
+        avatar: '/images/vitejs.png',
         name: 'ViteJS',
         title: 'Development Tool',
         links: [
@@ -27,7 +27,7 @@ const members = [
         ]
     },
     {
-        avatar: '/assets/redux.png',
+        avatar: '/images/redux.png',
         name: 'Redux Tool Kit (RTK)',
         title: 'Styling',
         links: [
@@ -35,7 +35,7 @@ const members = [
         ]
     },
     {
-        avatar: '/assets/rtkq.png',
+        avatar: '/images/rtkq.png',
         name: 'RTK Query',
         title: 'API Requests Library',
         links: [
@@ -43,7 +43,7 @@ const members = [
         ]
     },
     {
-        avatar: '../../assets/tailwindcss.png',
+        avatar: '/images/tailwindcss.png',
         name: 'Tailwindcss',
         title: 'State Management',
         links: [
@@ -51,7 +51,7 @@ const members = [
         ]
     },
     {
-        avatar: '/assets/storybook.svg',
+        avatar: '/images/storybook.svg',
         name: 'Storybook',
         title: 'Documentation | Visual Testing',
         links: [
@@ -59,7 +59,7 @@ const members = [
         ]
     },
     {
-        avatar: '/assets/cypress.png',
+        avatar: '/images/cypress.png',
         name: 'Cypress',
         title: 'E2E Testing',
         links: [
@@ -67,7 +67,7 @@ const members = [
         ]
     },
     {
-        avatar: '/assets/vitest.svg',
+        avatar: '/images/vitest.svg',
         name: 'Vitest',
         title: 'Unit Testing',
         links: [
@@ -75,7 +75,7 @@ const members = [
         ]
     },
     {
-        avatar: '/assets/i18next.png',
+        avatar: '/images/i18next.png',
         name: 'i18next',
         title: 'Translation',
         links: [
@@ -83,7 +83,7 @@ const members = [
         ]
     },
     {
-        avatar: '/assets/momentjs.png',
+        avatar: '/images/momentjs.png',
         name: 'Momentjs',
         title: 'Date | Time',
         links: [
@@ -91,7 +91,7 @@ const members = [
         ]
     },
     {
-        avatar: '/assets/eslint.png',
+        avatar: '/images/eslint.png',
         name: 'ESLint',
         title: 'Linting',
         links: [
@@ -99,7 +99,7 @@ const members = [
         ]
     },
     {
-        avatar: '/assets/prettier.png',
+        avatar: '/images/prettier.png',
         name: 'Prettier',
         title: 'Formatting',
         links: [

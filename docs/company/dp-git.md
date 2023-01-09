@@ -14,7 +14,7 @@
     - AR-8112-create-get-people-api
 
 ## Git-Flow
-![gitflow](/assets/git-flow.jpg)
+![gitflow](/images/git-flow.jpg)
 
 ## Branche Types
 ### `master`

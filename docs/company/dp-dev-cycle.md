@@ -1,6 +1,6 @@
 # Development Cycle
 
-![gitflow](/assets/dev-cycle.png)
+![gitflow](/images/dev-cycle.png)
 
 ## Analyze
 - Identify big anxieties

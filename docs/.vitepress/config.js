@@ -2,7 +2,7 @@ export default {
     title: "AR",
     description: "Developer Documentation",
     head: [
-        ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/assets/ar-small.png"}],
+        ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/images/ar-small.png"}],
     ],
     themeConfig: {
         siteTitle: 'AR',
