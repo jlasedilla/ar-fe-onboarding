@@ -32,6 +32,7 @@ export default {
                     items: [
                         { text: "Git", link: "/company/dp-git" },
                         { text: "Development Cycle", link: "/company/dp-dev-cycle" },
+                        { text: "Reporting", link: "/company/dp-reporting" },
                     ],
                 }
             ],
