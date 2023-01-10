@@ -55,7 +55,7 @@ interface ButtonProps {
 
 ### Function
 
-If using arrow function define your default props in the argument.
+Define your default props in the argument.
 
 ```ts:line-numbers
 export const Button: React.FC<ButtonProps> = (props) => {       // [!code --]
@@ -130,12 +130,12 @@ export const Default: Story = {
 ```
 
 - Define the meta.
-    - title
+    - _title_
         - Where should the story in storybook be created
         - Should follow component directory structure and naming
-    - component
+    - _component_
         - Set the component here
-    - parameters/layout
+    - _parameters/layout_
         - Set to centered by default. If using page set it to screen.
         - See [official documentation](https://storybook.js.org/docs/react/writing-stories/parameters#gatsby-focus-wrapper) for other possible values for `parameters`.
 
@@ -230,4 +230,4 @@ You should be able to access Storybook UI through any modern browser.
 
 ![StorybookDocs](/images/storybook1.jpg)
 
-You can play/interact with the component by either using the `Docs` or the individual stories (Ex. `Default`).
+You can play/interact with the component by either using the `Docs` or the individual stories (In the above example `Default`).

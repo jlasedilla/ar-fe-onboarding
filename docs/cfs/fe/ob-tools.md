@@ -2,7 +2,7 @@
 
 ## IDE
 
-Any IDE would do, however we recommend using [VSCode](https://code.visualstudio.com/) for Frontend development.
+Any IDE will do, however we recommend using [VSCode](https://code.visualstudio.com/) for Frontend development.
 
 ## Extensions
 

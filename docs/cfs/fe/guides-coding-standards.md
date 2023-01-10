@@ -16,7 +16,9 @@
 ## Type Linting
 
 ::: tip
-Typescript will be inforced by tslint, and eslint as a support.
+Linting will be enforced by tslint and eslint.
+<br>
+Use VSCode for auto assist on some rules.
 :::
 
 - `js` or `jsx` files are not allowed, use `ts` or `tsx` instead
@@ -26,8 +28,7 @@ Typescript will be inforced by tslint, and eslint as a support.
 ## Formatting
 
 ::: tip
-If using VSCode.
-Formatting will be inforced by Prettier upon save.
+Use VSCode and install Prettier extension. This will auto format your code upon save.
 :::
 
 - Use 4 spaces as tab width
