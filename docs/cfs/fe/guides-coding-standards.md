@@ -14,7 +14,7 @@
 - Use hooks
 
 ::: tip Important
-Add `data-cy` attribute to elements/components during coding. This will help creation of Cypress tests much easier.
+Add `data-cy` attribute to elements/components during coding. This will make Cypress E2E test implementation much easier.
 :::
 
 ## Type Linting
