@@ -47,7 +47,7 @@ describe('Sample Spec', () => {
     it('Passes', () => {
         cy.visit('/');
 
-        cy.get('h1').contains('React');
+        cy.get('[data-cy="header"]').contains('React');
     });
 });
 ```

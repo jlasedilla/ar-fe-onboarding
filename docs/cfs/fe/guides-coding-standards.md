@@ -2,7 +2,7 @@
 
 [[toc]]
 
-## React Specific
+## General Coding
 
 - Practice __`SOLID`__ principle.
     - __S__ ingle responsibility principle
@@ -12,6 +12,10 @@
     - __D__ ependency Inversion principle
 - Use function to create components instead of class
 - Use hooks
+
+::: tip Important
+Add `data-cy` attribute to elements/components during coding. This will help creation of Cypress tests much easier.
+:::
 
 ## Type Linting
 
