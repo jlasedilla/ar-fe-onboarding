@@ -1,1 +1,1 @@
-# Welcome to AR Technical Documenation
+# Welcome to AR Technical Document
